@@ -1,7 +1,5 @@
 # Italian-Referendum
 
-Italian Referendum V3.
-
 0\) Temporal Analysis
 
 1. Manually/Semi-Automatically collect on the web (political party website, institutional website, wikipedia, public available list of politicians) and collect all possible italian politics (or journalists) name/twitter account P; divide them in two group according to their support to Yes Y or No N (skip otherwise); How many users you get? How many tweets? Which is their distribution over time?.
